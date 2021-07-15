@@ -1,0 +1,13 @@
+c:\Users\user\documents\visual studio 2015\Projects\LoadData\LoadData\obj\Debug\LoadData.vbprojResolveAssemblyReference.cache
+c:\Users\user\documents\visual studio 2015\Projects\LoadData\LoadData\obj\Debug\LoadData.Resources.resources
+c:\Users\user\documents\visual studio 2015\Projects\LoadData\LoadData\obj\Debug\LoadData.vbproj.GenerateResource.Cache
+c:\Users\user\documents\visual studio 2015\Projects\LoadData\LoadData\obj\Debug\LoadData.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\obj\Debug\LoadData.Dataload.resources
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\bin\Debug\LoadData.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\bin\Debug\LoadData.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\bin\Debug\LoadData.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\bin\Debug\System.Data.SQLite.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\obj\Debug\LoadData.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\obj\Debug\LoadData.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LoadData\LoadData\bin\Debug\MySql.Data.dll
